@@ -312,11 +312,6 @@ print " "
 
 #MENAMBAH ANGGOTA BARU
 
-dosen = []
-tendik = []
-dosenFT = []
-dosenFIK = []
-
 # The dn of our new entry/object
 dn = "cn=semua_dosen,ou=group,dc=maxcrc,dc=com" 
 dn2 = "cn=semua_tendik,ou=group,dc=maxcrc,dc=com"
@@ -346,7 +341,7 @@ try:
 			result_type, result_data = l.result(ldap_result_id, 0)
 			if (result_data == []):
 				
-				tendik.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+				tendik = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
 				
 				# Open a connection
 				l = ldap.initialize("ldap://localhost:389/")
@@ -383,7 +378,7 @@ try:
 			result_type, result_data = l.result(ldap_result_id, 0)
 			if (result_data == []):
 				
-				dosen.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+				dosen = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
 				
 				# Open a connection
 				l = ldap.initialize("ldap://localhost:389/")
@@ -422,7 +417,7 @@ try:
 				result_type, result_data = l.result(ldap_result_id, 0)
 				if (result_data == []):
 					
-					dosenFT.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+					dosenFT = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
 					
 					# Open a connection
 					l = ldap.initialize("ldap://localhost:389/")
@@ -457,7 +452,7 @@ try:
 				result_type, result_data = l.result(ldap_result_id, 0)
 				if (result_data == []):
 					
-					dosenFIK.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+					dosenFIK = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
 					
 					# Open a connection
 					l = ldap.initialize("ldap://localhost:389/")
