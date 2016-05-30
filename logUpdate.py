@@ -308,7 +308,6 @@ except Exception as e:
 if ubah == 0:
 	#print "tidak ada anggota yang dihapus"
 	logger.info("tidak ada anggota yang dihapus")
-print " "
 
 #MENAMBAH ANGGOTA BARU
 
@@ -353,7 +352,7 @@ try:
 				l.modify_s(dn2,ika)
 				#print y['uid']+" berhasil ditambahkan ke grup semua tendik"
 				logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua tendik")
-				ada = 1
+				ada+=1
 				break
 			else:
 				#print y['uid']+" sudah ada di group semua tendik"
@@ -390,7 +389,7 @@ try:
 				l.modify_s(dn,ika)
 				#print y['uid']+" berhasil ditambahkan ke grup semua dosen"
 				logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua dosen")
-				ada = 1
+				ada+=1
 				break
 			else:
 				#print y['uid']+" sudah ada di group semua dosen"
@@ -429,7 +428,7 @@ try:
 					l.modify_s(dn4,ika)
 					#print y['uid']+" berhasil ditambahkan ke dosen_FT"
 					logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua dosen_FT")
-					ada = 1
+					ada+=1
 					break
 				else:
 					#print y['uid']+" sudah ada di grup dosen FT"
@@ -463,17 +462,16 @@ try:
 					l.modify_s(dn3,iki)
 					#print y['uid']+" berhasil ditambahkan ke dosen_FIK"
 					logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua dosen_FIK")				
-					ada = 1
+					ada+=1
 					break
 				else:
 					#print y['uid']+" sudah ada di grup semua FIK"
 					break
-	if ada == 0:
-
-		#print ""
-		#print "tidak ada data baru"
-		logger.info("tidak ada data baru")
-
+	
 	l.unbind_s()
 except Exception as e:
 	logger.error(e)
+
+if ada == 0:
+	logger.info("tidak ada data baru")
+
