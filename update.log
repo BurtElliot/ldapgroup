@@ -282,3 +282,39 @@
 2016-05-30 09:48:33,256 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
 2016-05-30 09:48:33,276 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
 2016-05-30 09:48:33,398 - INFO - tidak ada data baru
+2016-05-30 10:38:58,913 - INFO - tidak ada anggota yang dihapus
+2016-05-30 10:38:59,026 - INFO - tidak ada data baru
+2016-05-30 10:41:06,730 - INFO - tidak ada anggota yang dihapus
+2016-05-30 10:41:06,854 - INFO - tidak ada data baru
+2016-05-30 10:41:58,926 - INFO - tidak ada anggota yang dihapus
+2016-05-30 10:41:58,979 - INFO - baru1 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:41:58,994 - INFO - baru2 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:41:59,009 - INFO - baru3 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:41:59,059 - INFO - ff6 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:41:59,073 - INFO - ff7 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:41:59,127 - INFO - ff8 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:41:59,177 - INFO - ff6 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 10:41:59,190 - INFO - ff7 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 10:41:59,206 - INFO - ff8 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 10:47:12,753 - INFO - tidak ada anggota yang dihapus
+2016-05-30 10:47:12,898 - INFO - tidak ada data baru
+2016-05-30 10:48:41,359 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-30 10:48:41,371 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-30 10:48:41,381 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-30 10:48:41,398 - INFO - uid=baru1,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua tendik
+2016-05-30 10:48:41,408 - INFO - uid=baru2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua tendik
+2016-05-30 10:48:41,421 - INFO - uid=baru3,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua tendik
+2016-05-30 10:48:41,444 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FIK
+2016-05-30 10:48:41,456 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FIK
+2016-05-30 10:48:41,466 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FIK
+2016-05-30 10:48:41,602 - INFO - tidak ada data baru
+2016-05-30 10:49:29,700 - INFO - tidak ada anggota yang dihapus
+2016-05-30 10:49:29,756 - INFO - baru1 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:49:29,770 - INFO - baru2 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:49:29,786 - INFO - baru3 berhasil ditambahkan ke grup semua tendik
+2016-05-30 10:49:29,848 - INFO - ff6 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:49:29,871 - INFO - ff7 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:49:29,887 - INFO - ff8 berhasil ditambahkan ke grup semua dosen
+2016-05-30 10:49:29,940 - INFO - ff6 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 10:49:29,957 - INFO - ff7 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 10:49:29,971 - INFO - ff8 berhasil ditambahkan ke grup semua dosen_FIK
