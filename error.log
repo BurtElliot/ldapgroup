@@ -1,0 +1,16 @@
+Expecting property name: line 66 column 17 (char 1799)
+name 'output' is not defined
+2016-05-23 14:09:42,548 - ERROR - Expecting property name: line 66 column 17 (char 1799)
+2016-05-23 14:09:42,622 - ERROR - name 'output' is not defined
+2016-05-23 14:19:34,000 - ERROR - Expecting property name: line 66 column 17 (char 1799)
+2016-05-23 14:19:34,013 - ERROR - name 'output' is not defined
+2016-05-28 11:02:40,799 - ERROR - {'desc': "Can't contact LDAP server"}
+2016-05-28 11:02:40,832 - ERROR - name 'ldap_result_id' is not defined
+2016-05-28 11:13:47,934 - ERROR - {'desc': 'Already exists'}
+2016-05-28 11:13:47,944 - ERROR - {'desc': 'Already exists'}
+2016-05-28 11:13:47,979 - ERROR - {'desc': 'Already exists'}
+2016-05-28 11:13:48,002 - ERROR - {'desc': 'Already exists'}
+2016-05-28 12:50:16,355 - ERROR - unsupported operand type(s) for +: 'dict' and 'str'
+2016-05-28 13:10:31,963 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-05-28 13:16:00,499 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-05-28 13:23:10,052 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
