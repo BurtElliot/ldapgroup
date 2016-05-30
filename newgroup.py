@@ -14,7 +14,7 @@ logeror.setLevel(logging.ERROR)
 
 # create a file handler
 
-handler = logging.FileHandler('hello.log')
+handler = logging.FileHandler('update.log')
 handler.setLevel(logging.INFO)
 
 errorhandler = logging.FileHandler('error.log')
