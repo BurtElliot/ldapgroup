@@ -1,0 +1,284 @@
+2016-05-12 13:44:34,217 - __main__ - INFO - Hello baby
+2016-05-12 13:44:40,750 - __main__ - INFO - Hello baby
+2016-05-12 13:50:00,553 - __main__ - INFO - Hello baby
+2016-05-12 13:50:24,443 - __main__ - INFO - Hello baby
+2016-05-12 14:02:18,924 - __main__ - INFO - Hello babo
+2016-05-12 14:04:05,457 - __main__ - INFO - Hello babo
+2016-05-12 14:13:30,655 - __main__ - INFO - Hello babo
+2016-05-12 14:13:30,657 - __main__ - INFO - Halo
+2016-05-13 11:09:03,227 - __main__ - INFO - grup
+2016-05-13 11:09:54,433 - __main__ - INFO - grupeka
+2016-05-13 11:10:48,608 - __main__ - INFO - eka telah ditambahkan
+2016-05-13 11:15:31,099 - __main__ - INFO - group untuk semua dosen telah dibuat
+2016-05-13 11:23:45,088 - __main__ - INFO - group untuk semua dosengroup untuk semua tendikgroup untuk semua dosen FIKgroup untuk semua dosen FT telah dibuat
+2016-05-13 11:26:10,573 - __main__ - INFO - group untuk semua dosen telah berhasil dibuat
+2016-05-13 11:26:10,573 - __main__ - INFO - group untuk semua tendik telah berhasil dibuat
+2016-05-13 11:26:10,575 - __main__ - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-05-13 11:26:10,575 - __main__ - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-05-13 12:49:43,628 - INFO - eka telah ditambahkan
+2016-05-13 12:51:16,006 - INFO - eka telah ditambahkan
+2016-05-13 12:51:30,479 - INFO - eka telah ditambahkan
+2016-05-13 13:25:58,272 - INFO - endang telah berhasil ditambahkan ke group IT
+2016-05-13 13:25:58,302 - INFO - fermann telah berhasil ditambahkan ke group FT
+2016-05-13 13:25:58,303 - INFO - Ono telah berhasil ditambahkan ke group FT
+2016-05-13 13:25:58,303 - INFO - User1 telah berhasil ditambahkan ke group FT
+2016-05-13 13:25:58,305 - INFO - eka telah berhasil ditambahkan ke group IT
+2016-05-17 08:24:13,555 - INFO - eendang telah berhasil ditambahkan ke group IT
+2016-05-17 08:24:13,627 - INFO - fermann telah berhasil ditambahkan ke group FT
+2016-05-17 08:24:13,628 - INFO - Ono telah berhasil ditambahkan ke group FT
+2016-05-17 08:24:13,628 - INFO - User1 telah berhasil ditambahkan ke group FT
+2016-05-17 08:24:13,628 - INFO - eeka telah berhasil ditambahkan ke group IT
+2016-05-17 08:24:13,628 - INFO - ek0 telah berhasil ditambahkan ke group FT
+2016-05-17 08:24:13,628 - INFO - ek0 telah berhasil ditambahkan ke group IT
+2016-05-17 08:24:13,628 - INFO - ek0 telah berhasil ditambahkan ke group IT
+2016-05-17 08:24:13,628 - INFO - ek0 telah berhasil ditambahkan ke group FT
+2016-05-18 13:03:06,131 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-05-18 13:03:06,184 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-05-18 13:03:06,184 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-05-18 13:03:06,184 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-05-18 13:03:58,963 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-05-18 13:03:58,963 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-05-18 13:03:58,963 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-05-18 13:03:58,963 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-05-18 13:05:34,486 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-05-18 13:05:34,486 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-05-18 13:05:34,487 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-05-18 13:05:34,487 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-05-21 13:49:26,296 - INFO - tidak ada yang pindahkan dari semua dosen
+2016-05-21 13:49:26,319 - INFO - tidak ada yang dipindahkan dari semua tendik
+2016-05-21 13:49:26,328 - INFO - tidak ada yang dipindahkan dari dosen FT
+2016-05-21 13:49:26,338 - INFO - tidak ada yang dipindahkan dari dosen FIK
+2016-05-21 13:49:26,563 - INFO - tidak ada data baru
+2016-05-21 13:51:43,180 - INFO - tidak ada yang pindahkan dari semua dosen
+2016-05-21 13:51:43,388 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan
+2016-05-21 13:51:43,398 - INFO - tidak ada yang dipindahkan dari dosen FT
+2016-05-21 13:51:43,405 - INFO - tidak ada yang dipindahkan dari dosen FIK
+2016-05-21 13:55:15,742 - INFO - tidak ada yang pindahkan dari semua dosen
+2016-05-21 13:55:15,752 - INFO - tidak ada yang dipindahkan dari semua tendik
+2016-05-21 13:55:15,760 - INFO - tidak ada yang dipindahkan dari dosen FT
+2016-05-21 13:55:15,769 - INFO - tidak ada yang dipindahkan dari dosen FIK
+2016-05-21 13:55:15,994 - INFO - yoloyolo berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-21 13:56:45,451 - INFO - tidak ada yang pindahkan dari semua dosen
+2016-05-21 13:56:45,460 - INFO - tidak ada yang dipindahkan dari semua tendik
+2016-05-21 13:56:45,469 - INFO - tidak ada yang dipindahkan dari dosen FT
+2016-05-21 13:56:45,522 - INFO - tidak ada yang dipindahkan dari dosen FIK
+2016-05-21 13:56:45,658 - INFO - yalayala berhasil ditambahkan ke grup semua dosen
+2016-05-21 13:58:55,180 - INFO - tidak ada yang pindahkan dari semua dosen
+2016-05-21 13:58:55,187 - INFO - tidak ada yang dipindahkan dari semua tendik
+2016-05-21 13:58:55,194 - INFO - tidak ada yang dipindahkan dari dosen FT
+2016-05-21 13:58:55,200 - INFO - tidak ada yang dipindahkan dari dosen FIK
+2016-05-21 13:58:55,372 - INFO - yalayala berhasil ditambahkan ke grup semua dosen_FT
+2016-05-21 14:13:43,233 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:13:43,388 - INFO - tidak ada data baru
+2016-05-21 14:21:11,357 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-21 14:21:47,073 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:21:47,183 - INFO - tidak ada data baru
+2016-05-21 14:23:54,234 - INFO - uid=yalayala,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-21 14:23:54,255 - INFO - uid=yalayala,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-21 14:23:54,309 - INFO - yalayala berhasil ditambahkan ke grup semua tendik
+2016-05-21 14:24:20,859 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-21 14:24:20,973 - INFO - tidak ada data baru
+2016-05-21 14:24:33,733 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:24:33,835 - INFO - tidak ada data baru
+2016-05-21 14:24:49,993 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:24:50,098 - INFO - tidak ada data baru
+2016-05-21 14:24:51,573 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:24:51,676 - INFO - tidak ada data baru
+2016-05-21 14:25:14,790 - INFO - uid=yalayala,ou=people,dc=maxcrc,dc=com berhasil di pindahkan
+2016-05-21 14:25:14,901 - INFO - tidak ada data baru
+2016-05-21 14:25:19,000 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:25:19,098 - INFO - tidak ada data baru
+2016-05-21 14:28:11,404 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-21 14:28:11,493 - INFO - yoloyolo berhasil ditambahkan ke grup semua dosen
+2016-05-21 14:28:11,543 - INFO - yoloyolo berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-21 14:28:46,073 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:28:46,160 - INFO - yalayala berhasil ditambahkan ke grup semua dosen
+2016-05-21 14:28:46,213 - INFO - yalayala berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-21 14:29:17,855 - INFO - uid=yalayala,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-21 14:29:17,882 - INFO - uid=yalayala,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-21 14:29:17,930 - INFO - yalayala berhasil ditambahkan ke grup semua tendik
+2016-05-21 14:30:13,336 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-21 14:30:13,362 - INFO - uid=yoloyolo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-21 14:30:13,415 - INFO - yoloyolo berhasil ditambahkan ke grup semua tendik
+2016-05-21 14:30:45,895 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:30:45,969 - INFO - fer992 berhasil ditambahkan ke grup semua tendik
+2016-05-21 14:30:57,974 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:30:58,075 - INFO - tidak ada data baru
+2016-05-21 14:31:03,207 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:31:03,315 - INFO - tidak ada data baru
+2016-05-21 14:33:25,096 - INFO - tidak ada anggota yang dihapus
+2016-05-21 14:33:25,161 - INFO - 1esa99146 berhasil ditambahkan ke grup semua tendik
+2016-05-23 09:45:20,427 - INFO - uid=dd4,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-23 09:45:20,525 - INFO - tidak ada data baru
+2016-05-23 09:45:40,209 - INFO - tidak ada anggota yang dihapus
+2016-05-23 09:45:40,299 - INFO - tidak ada data baru
+2016-05-23 09:47:20,785 - INFO - uid=dd4,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-23 09:47:20,892 - INFO - tidak ada data baru
+2016-05-23 09:49:57,799 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-23 09:49:57,897 - INFO - zxc berhasil ditambahkan ke grup semua dosen
+2016-05-23 09:49:57,936 - INFO - zxc berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-23 09:50:46,401 - INFO - uid=cc3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-23 09:50:46,424 - INFO - uid=cc3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-23 09:50:46,516 - INFO - tidak ada data baru
+2016-05-23 09:50:59,523 - INFO - tidak ada anggota yang dihapus
+2016-05-23 09:50:59,595 - INFO - cc3 berhasil ditambahkan ke grup semua dosen
+2016-05-23 09:50:59,631 - INFO - cc3 berhasil ditambahkan ke grup semua dosen_FT
+2016-05-23 09:51:46,970 - INFO - uid=cc3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-23 09:51:46,993 - INFO - uid=cc3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-23 09:51:47,048 - INFO - cc3 berhasil ditambahkan ke grup semua tendik
+2016-05-23 11:09:45,700 - INFO - uid=cc3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-23 11:09:45,798 - INFO - cc3 berhasil ditambahkan ke grup semua dosen
+2016-05-23 11:09:45,848 - INFO - cc3 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-23 13:56:38,651 - ERROR - Expecting property name: line 66 column 17 (char 1799)
+2016-05-23 14:08:21,371 - ERROR - Expecting property name: line 66 column 17 (char 1799)
+2016-05-23 14:08:21,384 - ERROR - name 'output' is not defined
+2016-05-23 14:09:42,548 - ERROR - Expecting property name: line 66 column 17 (char 1799)
+2016-05-23 14:09:42,622 - ERROR - name 'output' is not defined
+2016-05-23 14:19:17,410 - INFO - tidak ada perubahan data di semua dosen
+2016-05-28 12:45:04,259 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:45:04,361 - INFO - tidak ada data baru
+2016-05-28 12:46:03,167 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 12:46:03,194 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-28 12:46:03,275 - INFO - tidak ada data baru
+2016-05-28 12:46:35,125 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:46:35,197 - INFO - zxc berhasil ditambahkan ke grup semua dosen
+2016-05-28 12:46:35,262 - INFO - zxc berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 12:48:28,959 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:48:29,046 - INFO - tidak ada data baru
+2016-05-28 12:48:45,605 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 12:48:45,627 - INFO - u berhasil di hapus dari dosen FIK
+2016-05-28 12:48:45,706 - INFO - tidak ada data baru
+2016-05-28 12:49:56,032 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:49:56,102 - INFO - zxc berhasil ditambahkan ke grup semua dosen
+2016-05-28 12:49:56,137 - INFO - zxc berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 12:50:16,334 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 12:50:16,437 - INFO - tidak ada data baru
+2016-05-28 12:50:53,736 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:50:53,821 - INFO - tidak ada data baru
+2016-05-28 12:51:08,611 - INFO - tidak ada anggota yang dihapus
+2016-05-28 12:51:08,684 - INFO - zxc berhasil ditambahkan ke grup semua dosen
+2016-05-28 12:51:08,717 - INFO - zxc berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 12:51:58,388 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 12:51:58,410 - INFO - ff6 berhasil di hapus dari dosen FIK
+2016-05-28 12:51:58,492 - INFO - tidak ada data baru
+2016-05-28 13:05:41,907 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:05:41,986 - INFO - tidak ada data baru
+2016-05-28 13:06:14,549 - INFO - uid=ee5,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 13:06:14,571 - INFO - ff6 berhasil di hapus dari dosen FIK
+2016-05-28 13:06:14,644 - INFO - tidak ada data baru
+2016-05-28 13:07:22,601 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 13:07:22,622 - INFO - cc3 berhasil di hapus dari dosen FIK
+2016-05-28 13:07:22,687 - INFO - tidak ada data baru
+2016-05-28 13:10:31,835 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:10:31,905 - INFO - ee5 berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:10:32,108 - INFO - ee5 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:10:32,134 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-05-28 13:16:00,388 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:16:00,482 - INFO - zxc berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:16:00,532 - INFO - zxc berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:16:00,542 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-05-28 13:18:43,914 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:18:44,009 - INFO - ff6 berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:18:44,046 - INFO - ff6 berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:19:06,312 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:19:06,414 - INFO - tidak ada data baru
+2016-05-28 13:23:09,921 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua dosen
+2016-05-28 13:23:09,947 - INFO - uid=zxc,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FIK
+2016-05-28 13:23:10,039 - INFO - zxl berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:23:10,088 - INFO - zxl berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:23:10,099 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-05-28 13:25:42,476 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:25:42,611 - INFO - zxk berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:27:18,961 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:27:19,055 - INFO - zxm berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:27:19,096 - INFO - zxk berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:27:20,812 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:27:20,959 - INFO - zxm berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:27:24,647 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:27:24,772 - INFO - tidak ada data baru
+2016-05-28 13:29:50,299 - INFO - uid=zxm,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-28 13:29:50,463 - INFO - zxm berhasil ditambahkan ke grup semua dosen_FT
+2016-05-28 13:30:40,308 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:30:40,464 - INFO - zxo berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:30:40,532 - INFO - zxo berhasil ditambahkan ke grup semua dosen_FT
+2016-05-28 13:31:30,926 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:31:31,035 - INFO - zxp berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:33:39,865 - INFO - uid=zxo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:33:39,878 - INFO - uid=zxp,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:33:39,891 - INFO - uid=zxq,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:33:39,903 - INFO - uid=zxr,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:33:39,924 - INFO - uid=zxo,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:33:39,940 - INFO - uid=zxp,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:33:39,959 - INFO - uid=zxq,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:33:39,974 - INFO - uid=zxr,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:33:40,128 - INFO - tidak ada data baru
+2016-05-28 13:34:09,160 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:34:09,259 - INFO - zxN berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:34:44,763 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:34:44,864 - INFO - zxO berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:34:44,915 - INFO - zxN berhasil ditambahkan ke grup semua dosen_FT
+2016-05-28 13:34:50,226 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:34:50,411 - INFO - zxO berhasil ditambahkan ke grup semua dosen_FT
+2016-05-28 13:55:03,444 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:55:03,572 - INFO - zxq berhasil ditambahkan ke grup semua dosen
+2016-05-28 13:55:03,641 - INFO - zxp berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-28 13:55:17,608 - INFO - uid=zxp,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:55:17,619 - INFO - uid=zxq,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:55:17,648 - INFO - uid=zxp,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-28 13:55:17,789 - INFO - tidak ada data baru
+2016-05-28 13:57:39,010 - INFO - uid=zxk,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:57:39,023 - INFO - uid=zxm,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:57:39,036 - INFO - uid=zxN,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:57:39,049 - INFO - uid=zxO,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-28 13:57:39,072 - INFO - uid=zxm,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:57:39,085 - INFO - uid=zxN,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:57:39,098 - INFO - uid=zxO,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FT
+2016-05-28 13:57:39,115 - INFO - uid=zxk,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-28 13:57:39,263 - INFO - tidak ada data baru
+2016-05-28 13:58:17,282 - INFO - tidak ada anggota yang dihapus
+2016-05-28 13:58:17,364 - INFO - zxk berhasil ditambahkan ke grup semua dosen
+2016-05-30 08:53:57,516 - INFO - uid=ff9,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 08:53:57,651 - INFO - zxk berhasil ditambahkan ke grup semua dosen_FIK
+2016-05-30 08:53:57,671 - INFO - zxm berhasil ditambahkan ke grup semua dosen_FT
+2016-05-30 08:54:04,691 - INFO - tidak ada anggota yang dihapus
+2016-05-30 08:54:04,822 - INFO - zxN berhasil ditambahkan ke grup semua dosen_FT
+2016-05-30 08:55:22,578 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 08:55:22,588 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 08:55:22,721 - INFO - zxO berhasil ditambahkan ke grup semua dosen_FT
+2016-05-30 08:55:42,953 - INFO - tidak ada anggota yang dihapus
+2016-05-30 08:55:43,079 - INFO - tidak ada data baru
+2016-05-30 08:55:59,523 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 08:55:59,551 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 08:55:59,668 - INFO - tidak ada data baru
+2016-05-30 08:56:38,941 - INFO - tidak ada anggota yang dihapus
+2016-05-30 08:56:39,038 - INFO - ff6 berhasil ditambahkan ke grup semua dosen
+2016-05-30 08:56:44,892 - INFO - tidak ada anggota yang dihapus
+2016-05-30 08:56:45,000 - INFO - ff7 berhasil ditambahkan ke grup semua dosen
+2016-05-30 09:01:48,463 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:01:48,477 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:01:48,493 - INFO - uid=ff9,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:01:48,506 - INFO - uid=ff,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:01:48,645 - INFO - tidak ada data baru
+2016-05-30 09:11:02,559 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:11:02,572 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:11:02,586 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:11:02,601 - INFO - uid=ff9,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:11:02,625 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:11:02,641 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:11:02,760 - INFO - tidak ada data baru
+2016-05-30 09:46:21,486 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:46:21,503 - INFO - uid=baru1,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:46:21,515 - INFO - uid=baru2,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:46:21,526 - INFO - uid=baru3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:46:21,546 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:46:21,674 - INFO - tidak ada data baru
+2016-05-30 09:48:33,095 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:48:33,115 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:48:33,134 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua dosen
+2016-05-30 09:48:33,154 - INFO - uid=baru1,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:48:33,164 - INFO - uid=baru2,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:48:33,177 - INFO - uid=baru3,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari semua tendik
+2016-05-30 09:48:33,243 - INFO - uid=ff6,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:48:33,256 - INFO - uid=ff7,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:48:33,276 - INFO - uid=ff8,ou=people,dc=maxcrc,dc=com berhasil di pindahkan dari dosen FIK
+2016-05-30 09:48:33,398 - INFO - tidak ada data baru
