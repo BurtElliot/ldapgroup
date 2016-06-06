@@ -170,6 +170,146 @@ try:
 	l.unbind_s()
 except Exception as e:
 	logeror.error(e)
+
+#update anggota kajur
+
+try:
+	l = ldap.open("127.0.0.1")
+	l.protocol_version = ldap.VERSION3	
+except ldap.LDAPError, e:
+	print e
+
+den = "top"
+cari = "objectClass="+den
+
+baseDN = "cn=semua_kajur,ou=group,dc=maxcrc,dc=com"
+searchScope = ldap.SCOPE_SUBTREE
+retrieveAttributes = None 
+searchFilter = cari
+
+sama = 0
+
+try:
+	ldap_result_id = l.search(baseDN, searchScope, searchFilter, retrieveAttributes)
+except Exception as e:
+	logeror.error(e)
+
+try:
+	while 1:
+		result_type, result_data = l.result(ldap_result_id, 0)
+		if (result_data == []):
+			print "tidak ada"
+			break;
+		else:
+			## here you don't have to append to a list
+			## you could do whatever you want with the individual entry
+			## The appending to list is just for illustration. 
+			if result_type == ldap.RES_SEARCH_ENTRY:
+				
+				#print result_data
+				#print " "
+				#print result_data[0][1]['member'][0]
+				for y in result_data[0][1]['member']:
+					#listLDAP.append(y)
+					#print listLDAP
+					#print y
+					for z in output['data']['dosen']:
+						if z['jabatan'] == "1":
+							a="uid=" + z['uid'] + "," + "ou=people,dc=maxcrc,dc=com"
+							if a == y:
+								sama=1
+								break
+							else:
+									sama=0
+					if sama == 0:
+						# Open a connection
+						l = ldap.initialize("ldap://localhost:389/")
+
+						# Bind/authenticate with a user with apropriate rights to add objects
+						l.simple_bind_s("cn=manager,dc=maxcrc,dc=com","secret")
+						delet = [(ldap.MOD_DELETE, 'member', y)]
+						l.modify_s('cn=semua_kajur,ou=group,dc=maxcrc,dc=com', delet)
+						#print y+" "+"berhasil dipindahkan dari dosen_FT"
+						logger.info(y+" "+"berhasil di hapus dari semua_kajur")
+						ubah=+1
+			break
+	#if sama == 1:
+		#print "tidak ada perubahan data di dosen FT"
+		#logger.info("tidak ada yang dipindahkan dari dosen FT")
+	l.unbind_s()
+except Exception as e:
+	logeror.error(e)
+
+#update anggota dekan
+
+try:
+	l = ldap.open("127.0.0.1")
+	l.protocol_version = ldap.VERSION3	
+except ldap.LDAPError, e:
+	print e
+
+den = "top"
+cari = "objectClass="+den
+
+baseDN = "cn=semua_dekan,ou=group,dc=maxcrc,dc=com"
+searchScope = ldap.SCOPE_SUBTREE
+retrieveAttributes = None 
+searchFilter = cari
+
+sama = 0
+
+try:
+	ldap_result_id = l.search(baseDN, searchScope, searchFilter, retrieveAttributes)
+except Exception as e:
+	logeror.error(e)
+
+try:
+	while 1:
+		result_type, result_data = l.result(ldap_result_id, 0)
+		if (result_data == []):
+			print "tidak ada"
+			break;
+		else:
+			## here you don't have to append to a list
+			## you could do whatever you want with the individual entry
+			## The appending to list is just for illustration. 
+			if result_type == ldap.RES_SEARCH_ENTRY:
+				
+				#print result_data
+				#print " "
+				#print result_data[0][1]['member'][0]
+				for y in result_data[0][1]['member']:
+					#listLDAP.append(y)
+					#print listLDAP
+					#print y
+					for z in output['data']['dosen']:
+						if z['jabatan'] == "2":
+							a="uid=" + z['uid'] + "," + "ou=people,dc=maxcrc,dc=com"
+							if a == y:
+								sama=1
+								break
+							else:
+									sama=0
+					if sama == 0:
+						# Open a connection
+						l = ldap.initialize("ldap://localhost:389/")
+
+						# Bind/authenticate with a user with apropriate rights to add objects
+						l.simple_bind_s("cn=manager,dc=maxcrc,dc=com","secret")
+						delet = [(ldap.MOD_DELETE, 'member', y)]
+						l.modify_s('cn=semua_dekan,ou=group,dc=maxcrc,dc=com', delet)
+						#print y+" "+"berhasil dipindahkan dari dosen_FT"
+						logger.info(y+" "+"berhasil di hapus dari semua_dekan")
+						ubah=+1
+			break
+	#if sama == 1:
+		#print "tidak ada perubahan data di dosen FT"
+		#logger.info("tidak ada yang dipindahkan dari dosen FT")
+	l.unbind_s()
+except Exception as e:
+	logeror.error(e)
+
+
 #update anggota dosen teknik
 
 try:
@@ -316,6 +456,8 @@ dn = "cn=semua_dosen,ou=group,dc=maxcrc,dc=com"
 dn2 = "cn=semua_tendik,ou=group,dc=maxcrc,dc=com"
 dn3 = "cn=dosen_FIK,ou=group,dc=maxcrc,dc=com"
 dn4 = "cn=dosen_FT,ou=group,dc=maxcrc,dc=com"
+dn5 = "cn=semua_kajur,ou=group,dc=maxcrc,dc=com"
+dn6 = "cn=semua_dekan,ou=group,dc=maxcrc,dc=com"
 
 iki = []
 ika = []
@@ -397,7 +539,6 @@ try:
 except Exception as e:
 	logeror.error(e)
 
-
 #menambah anggo baru di group dosen fak teknik
 try:
 	for y in output['data']['dosen']:
@@ -471,6 +612,80 @@ try:
 	l.unbind_s()
 except Exception as e:
 	logger.error(e)
+
+#menambah anggota baru di group semua kajur
+try:
+	for y in output['data']['dosen']:
+		if y['jabatan'] == "1" :
+			l = ldap.open("127.0.0.1")
+			l.protocol_version = ldap.VERSION3	
+			den = "uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"
+			cari = "member="+den
+			baseDN = "cn=semua_kajur,ou=group,dc=maxcrc,dc=com"
+			searchScope = ldap.SCOPE_SUBTREE
+			retrieveAttributes = None 
+			searchFilter = cari			
+			ldap_result_id = l.search(baseDN, searchScope, searchFilter, retrieveAttributes)
+			
+			while 1:
+				result_type, result_data = l.result(ldap_result_id, 0)
+				if (result_data == []):
+					
+					kajur = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+					
+					# Open a connection
+					l = ldap.initialize("ldap://localhost:389/")
+
+					# Bind/authenticate with a user with apropriate rights to add objects
+					l.simple_bind_s("cn=manager,dc=maxcrc,dc=com","secret")
+					ika = [(ldap.MOD_ADD, 'member', kajur)]
+
+					l.modify_s(dn5,ika)
+					#print y['uid']+" berhasil ditambahkan ke dosen_FT"
+					logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua kajur")
+					ada+=1
+					break
+				else:
+					#print y['uid']+" sudah ada di grup dosen FT"
+					break
+
+#menambah anggota baru di group semua dekan
+		elif y['jabatan'] == "2" :
+			l = ldap.open("127.0.0.1")
+			l.protocol_version = ldap.VERSION3	
+			den = "uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"
+			cari = "member="+den
+			baseDN = "cn=semua_dekan,ou=group,dc=maxcrc,dc=com"
+			searchScope = ldap.SCOPE_SUBTREE
+			retrieveAttributes = None 
+			searchFilter = cari			
+			ldap_result_id = l.search(baseDN, searchScope, searchFilter, retrieveAttributes)
+			
+			while 1:
+				result_type, result_data = l.result(ldap_result_id, 0)
+				if (result_data == []):
+					
+					dekan = (str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+					
+					# Open a connection
+					l = ldap.initialize("ldap://localhost:389/")
+
+					# Bind/authenticate with a user with apropriate rights to add objects
+					l.simple_bind_s("cn=manager,dc=maxcrc,dc=com","secret")
+					ika = [(ldap.MOD_ADD, 'member', dekan)]
+
+					l.modify_s(dn6,ika)
+					#print y['uid']+" berhasil ditambahkan ke dosen_FT"
+					logger.info(y['uid']+" "+"berhasil ditambahkan ke grup semua dekan")
+					ada+=1
+					break
+				else:
+					#print y['uid']+" sudah ada di grup dosen FT"
+					break
+	l.unbind_s()
+except Exception as e:
+	logger.error(e)
+
 
 if ada == 0:
 	logger.info("tidak ada data baru")

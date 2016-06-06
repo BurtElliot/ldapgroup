@@ -44,6 +44,8 @@ dosen = []
 tendik = []
 dosenFT = []
 dosenFIK = []
+kajur = [] #kode jabatan = 1
+dekan = [] #kode jabatan = 2
 
 try:
 	for y in output['data']['dosen']:
@@ -67,6 +69,15 @@ except Exception as e:
 	logeror.error(e)
 
 try:
+	for y in output['data']['dosen']:
+		if y['jabatan'] == "1" :
+			kajur.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+		elif y['jabatan'] == "2" :
+			dekan.append(str("uid=" + y['uid'] + "," + "ou=people,dc=maxcrc,dc=com"))
+except Exception as e:
+	logeror.error(e)
+
+try:
 	# Open a connection
 	l = ldap.initialize("ldap://localhost:389/")
 except Exception as e:
@@ -83,7 +94,8 @@ dn = "cn=semua_dosen,ou=group,dc=maxcrc,dc=com"
 dn2 = "cn=semua_tendik,ou=group,dc=maxcrc,dc=com"
 dn3 = "cn=dosen_FIK,ou=group,dc=maxcrc,dc=com"
 dn4 = "cn=dosen_FT,ou=group,dc=maxcrc,dc=com"
-
+dn5 = "cn=semua_kajur,ou=group,dc=maxcrc,dc=com"
+dn6 = "cn=semua_dekan,ou=group,dc=maxcrc,dc=com"
 
 # A dict to help build the "body" of the object
 attrs = {}
@@ -106,11 +118,23 @@ attrs4['objectclass'] = ['top','groupofnames']
 attrs4['member'] = dosenFT
 attrs4['description'] = 'group untuk semua dosen FT'
 
+attrs5 = {}
+attrs5['objectclass'] = ['top','groupofnames']
+attrs5['member'] = kajur
+attrs5['description'] = 'group untuk semua kajur'
+
+attrs6 = {}
+attrs6['objectclass'] = ['top','groupofnames']
+attrs6['member'] = dekan
+attrs6['description'] = 'group untuk semua dekan'
+
 # Convert our dict to nice syntax for the add-function using modlist-module
 ldif = modlist.addModlist(attrs)
 ldif2 = modlist.addModlist(attrs2)
 ldif3 = modlist.addModlist(attrs3)
 ldif4 = modlist.addModlist(attrs4)
+ldif5 = modlist.addModlist(attrs5)
+ldif6 = modlist.addModlist(attrs6)
 
 # Do the actual synchronous add-operation to the ldapserver
 try:
@@ -133,10 +157,22 @@ try:
 except Exception as e:
 	logeror.error(e)
 
+try:
+	l.add_s(dn5,ldif5)
+except Exception as e:
+	logeror.error(e)
+
+try:
+	l.add_s(dn6,ldif6)
+except Exception as e:
+	logeror.error(e)
+
 logger.info(attrs['description']+" "+"telah berhasil dibuat")
 logger.info(attrs2['description']+" "+"telah berhasil dibuat")
 logger.info(attrs3['description']+" "+"telah berhasil dibuat")
 logger.info(attrs4['description']+" "+"telah berhasil dibuat")
+logger.info(attrs5['description']+" "+"telah berhasil dibuat")
+logger.info(attrs6['description']+" "+"telah berhasil dibuat")
 
 # Its nice to the server to disconnect and free resources when done
 l.unbind_s()
