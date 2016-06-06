@@ -1,0 +1,42 @@
+{
+    "data":
+    {
+        "tendik":[
+            {
+                "uid":"blabla",
+                "nama":"oka"
+            },
+            {
+                "uid":"bloblo",
+                "nama":"oki"
+            }
+        ],
+        "dosen":[
+            {
+                "uid":"DOSEN_IT",
+                "nama":"oka",
+                "homebase":"IT",
+                "jabatan":"2"
+            },
+            {
+                "uid":"DOSEN_TE",
+                "nama":"oki",
+                "homebase":"TE",
+                "jabatan":"1"
+            },
+            {
+                "uid":"DOSEN_TF",
+                "nama":"oki",
+                "homebase":"TF",
+                "jabatan":"2"
+            },
+            {
+                "uid":"DOSEN_IT2",
+                "nama":"oka",
+                "homebase":"IT",
+                "jabatan":"1"
+            }
+
+        ]
+    }       
+}
