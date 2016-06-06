@@ -14,3 +14,47 @@ name 'output' is not defined
 2016-05-28 13:10:31,963 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
 2016-05-28 13:16:00,499 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
 2016-05-28 13:23:10,052 - ERROR - {'info': 'modify/add: member: value #0 already exists', 'desc': 'Type or value exists'}
+2016-06-06 09:43:24,566 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:43:24,612 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:43:24,612 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:43:24,612 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:43:24,612 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:43:24,612 - ERROR - name 'dn6' is not defined
+2016-06-06 09:44:11,099 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:11,099 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:11,099 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:11,099 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:11,099 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:44:11,099 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:44:48,698 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:48,698 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:48,698 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:48,698 - ERROR - {'info': 'parent does not exist', 'desc': 'No such object'}
+2016-06-06 09:44:48,698 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:44:48,698 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:46:52,426 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:46:52,426 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 09:50:34,915 - ERROR - {'desc': 'Already exists'}
+2016-06-06 09:50:34,915 - ERROR - {'desc': 'Already exists'}
+2016-06-06 09:50:34,915 - ERROR - {'desc': 'Already exists'}
+2016-06-06 09:50:34,915 - ERROR - {'desc': 'Already exists'}
+2016-06-06 10:02:51,063 - ERROR - 'jurusan'
+2016-06-06 10:02:51,063 - ERROR - 'jurusan'
+2016-06-06 10:10:05,881 - ERROR - 'jurusan'
+2016-06-06 10:10:05,881 - ERROR - 'jurusan'
+2016-06-06 10:10:51,875 - ERROR - 'jurusan'
+2016-06-06 10:10:51,875 - ERROR - 'jurusan'
+2016-06-06 10:13:02,614 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:13:55,431 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:17:10,443 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:18:55,355 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:22:13,645 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:28:42,651 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:29:08,394 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:29:37,522 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:29:37,522 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:29:45,292 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:30:23,681 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:30:41,119 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:31:30,062 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}
+2016-06-06 10:31:47,319 - ERROR - {'info': "object class 'groupOfNames' requires attribute 'member'", 'desc': 'Object class violation'}

@@ -318,3 +318,99 @@
 2016-05-30 10:49:29,940 - INFO - ff6 berhasil ditambahkan ke grup semua dosen_FIK
 2016-05-30 10:49:29,957 - INFO - ff7 berhasil ditambahkan ke grup semua dosen_FIK
 2016-05-30 10:49:29,971 - INFO - ff8 berhasil ditambahkan ke grup semua dosen_FIK
+2016-06-06 09:43:24,612 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-06-06 09:43:24,612 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-06-06 09:43:24,612 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-06-06 09:43:24,612 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-06-06 09:43:24,612 - INFO - group untuk semua kajur telah berhasil dibuat
+2016-06-06 09:43:24,612 - INFO - group untuk semua dekan telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua kajur telah berhasil dibuat
+2016-06-06 09:44:11,099 - INFO - group untuk semua dekan telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua kajur telah berhasil dibuat
+2016-06-06 09:44:48,698 - INFO - group untuk semua dekan telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua kajur telah berhasil dibuat
+2016-06-06 09:46:52,426 - INFO - group untuk semua dekan telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua dosen telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua tendik telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua dosen FIK telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua dosen FT telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua kajur telah berhasil dibuat
+2016-06-06 09:50:34,915 - INFO - group untuk semua dekan telah berhasil dibuat
+2016-06-06 10:02:51,078 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:02:51,078 - ERROR - 'jurusan'
+2016-06-06 10:02:51,078 - ERROR - 'jurusan'
+2016-06-06 10:02:51,078 - INFO - tidak ada data baru
+2016-06-06 10:10:05,881 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:10:05,897 - ERROR - 'jurusan'
+2016-06-06 10:10:05,897 - INFO - tidak ada data baru
+2016-06-06 10:10:51,875 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:10:51,875 - INFO - tidak ada data baru
+2016-06-06 10:13:02,630 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:13:02,630 - INFO - tidak ada data baru
+2016-06-06 10:13:55,447 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:13:55,447 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:17:10,443 - INFO - uid=DOSEN_TF,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:17:10,457 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua dosen_FT
+2016-06-06 10:18:55,355 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:18:55,355 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua dosen
+2016-06-06 10:18:55,369 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua dosen_FIK
+2016-06-06 10:18:55,369 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:19:19,608 - INFO - uid=DOSEN_IT,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FIK
+2016-06-06 10:19:19,624 - INFO - tidak ada data baru
+2016-06-06 10:20:16,461 - INFO - uid=DOSEN_IT,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:20:16,461 - INFO - uid=DOSEN_IT,ou=people,dc=maxcrc,dc=com berhasil di hapus dari dosen FT
+2016-06-06 10:20:16,461 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua dosen_FIK
+2016-06-06 10:21:19,750 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:21:19,750 - INFO - tidak ada data baru
+2016-06-06 10:22:13,645 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:22:13,661 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:22:40,599 - INFO - uid=DOSEN_IT2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:22:40,615 - INFO - tidak ada data baru
+2016-06-06 10:28:42,651 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:28:42,667 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:29:08,394 - INFO - uid=DOSEN_TE,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:29:08,411 - INFO - tidak ada data baru
+2016-06-06 10:29:37,538 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:29:37,538 - INFO - DOSEN_TE berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:29:45,276 - INFO - uid=DOSEN_IT,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:29:45,292 - INFO - tidak ada data baru
+2016-06-06 10:30:23,681 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:30:23,697 - INFO - DOSEN_TF berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:30:23,697 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:30:41,119 - INFO - uid=DOSEN_TF,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:30:41,119 - INFO - uid=DOSEN_IT2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:30:41,134 - INFO - tidak ada data baru
+2016-06-06 10:31:30,062 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:31:30,078 - INFO - DOSEN_TF berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:31:30,078 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:31:47,319 - INFO - uid=DOSEN_IT,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:31:47,319 - INFO - uid=DOSEN_TF,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:31:47,335 - INFO - tidak ada data baru
+2016-06-06 10:33:01,594 - INFO - tidak ada anggota yang dihapus
+2016-06-06 10:33:01,609 - INFO - DOSEN_IT berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:33:01,609 - INFO - DOSEN_TF berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:33:18,441 - INFO - uid=DOSEN_IT2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:33:18,457 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:34:06,165 - INFO - uid=DOSEN_TF,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:34:06,181 - INFO - tidak ada data baru
+2016-06-06 10:34:28,887 - INFO - uid=DOSEN_IT2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:34:28,903 - INFO - DOSEN_TF berhasil ditambahkan ke grup semua kajur
+2016-06-06 10:34:28,903 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:35:36,331 - INFO - uid=DOSEN_TF,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_kajur
+2016-06-06 10:35:36,331 - INFO - uid=DOSEN_IT2,ou=people,dc=maxcrc,dc=com berhasil di hapus dari semua_dekan
+2016-06-06 10:35:36,346 - INFO - DOSEN_TF berhasil ditambahkan ke grup semua dekan
+2016-06-06 10:35:36,361 - INFO - DOSEN_IT2 berhasil ditambahkan ke grup semua kajur
+2016-06-06 13:54:57,308 - INFO - tidak ada anggota yang dihapus
+2016-06-06 13:54:57,355 - INFO - tidak ada data baru
